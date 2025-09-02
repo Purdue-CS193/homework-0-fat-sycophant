@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Justin Ma's First CS193 Homework
 
-Lorem ipsum dolor sit amet
+- I appreciate the fact that it's student run
+- I like that the first homework assignment is so light
+- I can tolerate the memes in the slides
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
