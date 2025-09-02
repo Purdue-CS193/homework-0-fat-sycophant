@@ -1,4 +1,4 @@
-## Justin Ma's First CS193 Homework
+# Justin Ma's First CS193 Homework
 
 - I appreciate the fact that it's student run
 - I like that the first homework assignment is so light
